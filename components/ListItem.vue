@@ -120,6 +120,10 @@ export default {
     opacity: 0;
     transition: all 0.3s ease-in-out;
   }
+  svg {
+    height: 15px;
+    width: auto;
+  }
   &:hover {
     a {
       opacity: 1;
