@@ -114,6 +114,10 @@ export default {
   border-top: solid 1px rgba(255, 255, 255, 0.6);
   border-bottom: solid 1px rgba(255, 255, 255, 0.6);
   margin-top: -1px;
+  svg {
+    height: 15px;
+    width: auto;
+  }
 }
 .child-item {
   a {
